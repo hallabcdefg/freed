@@ -12,6 +12,13 @@
 | TVBox / 猫影视 meowcf（免墙） | `https://cdn.jsdelivr.net/gh/hallabcdefg/freed@master/TVBox/meowcf.json` |
 | FreeDTV 自建接口 | `https://cdn.jsdelivr.net/gh/hallabcdefg/freed@master/tv/` |
 
+**备用地址**（jsDelivr 的 Cloudflare 节点在部分运营商网络下 IPv6 连不通、报"配置取得失败 Failed to connect to /[2606:4700...]"时，按顺序换用）：
+
+- Fastly 节点（jsDelivr 官方另一节点）：`https://fastly.jsdelivr.net/gh/hallabcdefg/freed@master/TVBox/meow.json`
+- 国内代理（IPv4 直连，二选一即可）：
+  - `https://ghfast.top/https://raw.githubusercontent.com/hallabcdefg/freed/master/TVBox/meow.json`
+  - `https://gh-proxy.com/https://raw.githubusercontent.com/hallabcdefg/freed/master/TVBox/meow.json`
+
 ## 1. 海阔视界
 * 海阔视界｜APP
   + [APP载点1](https://www.lanzoux.com/u/GoldRiver) / [APP载点2](https://www.lanzoui.com/u/GoldRiver)
