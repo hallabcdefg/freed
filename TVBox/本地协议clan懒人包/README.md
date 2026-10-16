@@ -3,7 +3,7 @@
 
 ---
 ## 本地接口clan://协议 简易设定流程：
-* 下载3in1懒人包：[TVBox.zip](https://github.com/YuanHsing/freed/raw/master/TVBox/%E6%9C%AC%E5%9C%B0%E5%8D%8F%E8%AE%AEclan%E6%87%92%E4%BA%BA%E5%8C%85/TVBox.zip) 并记住存放位置
+* 下载3in1懒人包：[TVBox.zip](https://cdn.jsdelivr.net/gh/hallabcdefg/freed@master/TVBox/%E6%9C%AC%E5%9C%B0%E5%8D%8F%E8%AE%AEclan%E6%87%92%E4%BA%BA%E5%8C%85/TVBox.zip) 并记住存放位置
 * 升级[TV'Box](https://github.com/CatVodTVOfficial/TVBoxOSC)至 最新版 (支援zip上传自动解压缩，无需手动)
 * 我的 --> 设置 --> 配置地址 --> 存储权限 --> 允许
 * 透过扫码或浏览器访问网址 (如 http://172.16.1.xx:9978/)

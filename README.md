@@ -1,5 +1,17 @@
 # [影视]
 
+> **hallabcdefg 个人维护版**（fork 自 FongMi/CatPaw 系列配置集合 freed）。
+> 2026-10 对全仓 1719 个接口 URL 做了存活扫描，已批量清理失效接口（DNS 污染、域名注销、GFW 阻断等），
+> 自引用地址全部切换至本仓库 jsDelivr 镜像（国内加速）。接口失效是常态，发现失效可自行删改或提 issue。
+
+**常用配置地址（jsDelivr 国内直连）：**
+
+| 客户端 | 配置地址 |
+| --- | --- |
+| TVBox / 猫影视 meow | `https://cdn.jsdelivr.net/gh/hallabcdefg/freed@master/TVBox/meow.json` |
+| TVBox / 猫影视 meowcf（免墙） | `https://cdn.jsdelivr.net/gh/hallabcdefg/freed@master/TVBox/meowcf.json` |
+| FreeDTV 自建接口 | `https://cdn.jsdelivr.net/gh/hallabcdefg/freed@master/tv/` |
+
 ## 1. 海阔视界
 * 海阔视界｜APP
   + [APP载点1](https://www.lanzoux.com/u/GoldRiver) / [APP载点2](https://www.lanzoui.com/u/GoldRiver)
@@ -47,12 +59,12 @@
   + [海阔视界常见问题系列（一）](https://mp.weixin.qq.com/s/ukMZ4D6eRm-OCAR1G8PaoQ)
   + [海阔视界常见问题（二）](https://mp.weixin.qq.com/s/Jp3Xn8IqapQhEJIz5DCY8A)
 
-## ~~2. [猫影视TV](https://github.com/YuanHsing/freed/tree/master/猫影视TV%20%5B已停用%5D)~~
+## ~~2. [猫影视TV](https://github.com/hallabcdefg/freed/tree/master/猫影视TV%20%5B已停用%5D)~~
 [20220621 官方TG已公告，停止使用，停止维护]
 
-建议改用[TV'Box](https://github.com/YuanHsing/freed/tree/master/TVBox) 或 [BiuBiu影院](https://github.com/YuanHsing/freed/tree/master/BiuBiu)
+建议改用[TV'Box](https://github.com/hallabcdefg/freed/tree/master/TVBox) 或 [BiuBiu影院](https://github.com/hallabcdefg/freed/tree/master/BiuBiu)
 
-## 3. [FreeDTV](https://github.com/YuanHsing/freed/tree/master/tv)
+## 3. [FreeDTV](https://github.com/hallabcdefg/freed/tree/master/tv)
 * FreeDTV｜APP
   + https://github.com/FreeDTV/FreeD
   + [APP载点](https://www.lanzoui.com/b025mpw7e)
@@ -61,12 +73,12 @@
   + [TV1.2.2搜索以及定制导航支持某类json格式接口](https://mp.weixin.qq.com/s/C2NCGvk0LUxDGa_ocilOtA)
 * FreeDTV｜TV自建接口：( 自建接口 > 贴上 > 确定 > 重启APP )
 
-      https://freed.yuanhsing.cf/tv/
+      https://cdn.jsdelivr.net/gh/hallabcdefg/freed@master/tv/
 * FreeDTV｜手机自建接口：
 
       https://github.com/FreeDTV/FreeD/raw/master/mobile/
 
-## 4. [ZY-Player-PC](https://github.com/YuanHsing/freed/tree/master/ZY-Player)
+## 4. [ZY-Player-PC](https://github.com/hallabcdefg/freed/tree/master/ZY-Player)
 * ZY-Player-PC｜APP
 
   https://github.com/cuiocean/ZY-Player

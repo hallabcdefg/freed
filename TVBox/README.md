@@ -7,7 +7,7 @@
 
 + MaooXB2：适用 XBiubiuLA4.jar (XBiubiu 副标题、详情页++)
 
-+ [MaooXB(已打包,点击下载)](https://github.com/YuanHsing/freed/raw/master/TVBox/MaooXB.zip)：适用XBiubiuLA3.jar 及 其他各大佬的JAR
++ [MaooXB(已打包,点击下载)](https://cdn.jsdelivr.net/gh/hallabcdefg/freed@master/TVBox/MaooXB.zip)：适用XBiubiuLA3.jar 及 其他各大佬的JAR
 </del>
 
 ---
@@ -21,11 +21,11 @@
 
 ## 配置地址 简易设定流程：
 * 我的 --> 设置 --> 配置地址 (底下二选一)
-	1. 请输入 https://github.com/YuanHsing/freed/raw/master/TVBox/meow.json --> 确定
-	2. CH猫友免墙地址 请输入 https://freed.yuanhsing.cf/TVBox/meowcf.json --> 确定
+	1. 请输入 https://cdn.jsdelivr.net/gh/hallabcdefg/freed@master/TVBox/meow.json --> 确定
+	2. CH猫友免墙地址 请输入 https://cdn.jsdelivr.net/gh/hallabcdefg/freed@master/TVBox/meowcf.json --> 确定
 
 ## 切换数据源
 * 我的 --> 设置 --> 首页数据源
 
 ## 本地协议clan
-* [本地协议clan懒人包](https://github.com/YuanHsing/freed/tree/master/TVBox/%E6%9C%AC%E5%9C%B0%E5%8D%8F%E8%AE%AEclan%E6%87%92%E4%BA%BA%E5%8C%85)
+* [本地协议clan懒人包](https://github.com/hallabcdefg/freed/tree/master/TVBox/%E6%9C%AC%E5%9C%B0%E5%8D%8F%E8%AE%AEclan%E6%87%92%E4%BA%BA%E5%8C%85)

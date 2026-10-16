@@ -1,6 +1,6 @@
 [20220621 官方TG已公告，停止使用，停止维护]
 
-![MaoTV](https://raw.githubusercontent.com/YuanHsing/freed/master/maotv20220621.png "MaoTV")
+![MaoTV](https://cdn.jsdelivr.net/gh/hallabcdefg/freed@master/maotv20220621.png "MaoTV")
 ---
 <s>
 # 猫影视TV 2.1.1 BETA6 新功能
@@ -18,16 +18,16 @@ P.S
 * 同理 如懒人包有更新(文件名称不变)，只要下载并透过上述教学，重新上传一次，就算是更新了
 
 # [唐三大佬]
-* 下载懒人包：[Tangsan99999.zip](https://github.com/YuanHsing/freed/raw/master/%E7%8C%AB%E5%BD%B1%E8%A7%86TV%20clan%E6%87%92%E4%BA%BA%E5%8C%85/Tangsan99999.zip)
+* 下载懒人包：[Tangsan99999.zip](https://cdn.jsdelivr.net/gh/hallabcdefg/freed@master/%E7%8C%AB%E5%BD%B1%E8%A7%86TV%20clan%E6%87%92%E4%BA%BA%E5%8C%85/Tangsan99999.zip)
 * 配置接口：clan://localhost/tangsan99999/xiaobai.json
 
 
 # [baddychen大佬]
-* 下载懒人包：[baddychen0608.zip](https://github.com/YuanHsing/freed/raw/master/%E7%8C%AB%E5%BD%B1%E8%A7%86TV%20clan%E6%87%92%E4%BA%BA%E5%8C%85/baddychen0608.zip)
+* 下载懒人包：[baddychen0608.zip](https://cdn.jsdelivr.net/gh/hallabcdefg/freed@master/%E7%8C%AB%E5%BD%B1%E8%A7%86TV%20clan%E6%87%92%E4%BA%BA%E5%8C%85/baddychen0608.zip)
 * 配置接口：clan://localhost/baddychen0608/baddychen0608.json
 
 
 # [小明大佬]
-* 下载懒人包：[xm.zip](https://github.com/YuanHsing/freed/raw/master/%E7%8C%AB%E5%BD%B1%E8%A7%86TV%20clan%E6%87%92%E4%BA%BA%E5%8C%85/xm.zip)
+* 下载懒人包：[xm.zip](https://cdn.jsdelivr.net/gh/hallabcdefg/freed@master/%E7%8C%AB%E5%BD%B1%E8%A7%86TV%20clan%E6%87%92%E4%BA%BA%E5%8C%85/xm.zip)
 * 配置接口：clan://localhost/xm/xm.json
 </s>
