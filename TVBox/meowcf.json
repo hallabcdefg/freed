@@ -76,22 +76,6 @@
       ]
     },
     {
-      "key": "樱花直连",
-      "name": "樱花｜直连",
-      "type": 1,
-      "api": "https://m3u8.apiyhzy.com/api.php/provide/vod/?ac=detail",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "changeable": 1,
-      "categories": [
-        "电影",
-        "连续剧",
-        "动漫",
-        "综艺"
-      ]
-    },
-    {
       "key": "无尽直连",
       "name": "无尽｜直连",
       "type": 1,
@@ -154,20 +138,6 @@
       ]
     },
     {
-      "key": "极速资源",
-      "name": "极速｜采集",
-      "type": 1,
-      "api": "https://jszyapi.com/api.php/provide/vod/?ac=detail",
-      "searchable": 1,
-      "changeable": 1,
-      "categories": [
-        "电影",
-        "连续剧",
-        "动漫",
-        "综艺"
-      ]
-    },
-    {
       "key": "量子资源",
       "name": "量子｜采集",
       "type": 1,
@@ -203,20 +173,6 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "changeable": 1,
-      "categories": [
-        "电影",
-        "连续剧",
-        "动漫",
-        "综艺"
-      ]
-    },
-    {
-      "key": "暴风",
-      "name": "暴风｜直连",
-      "type": 1,
-      "api": "https://bfzyapi.com/api.php/provide/vod/?ac=list",
-      "searchable": 1,
       "changeable": 1,
       "categories": [
         "电影",
@@ -264,21 +220,6 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "changeable": 1,
-      "categories": [
-        "电影",
-        "连续剧",
-        "动漫",
-        "综艺"
-      ]
-    },
-    {
-      "key": "索尼",
-      "name": "索尼｜直连",
-      "type": 1,
-      "api": "https://suoniapi.com/api.php/provide/vod/?ac=list",
-      "searchable": 1,
-      "quickSearch": 1,
       "changeable": 1,
       "categories": [
         "电影",
