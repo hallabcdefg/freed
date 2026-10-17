@@ -50,7 +50,12 @@
       "api": "http://api.guangsuapi.com/api.php/provide/vod/?ac=detail",
       "searchable": 1,
       "changeable": 1,
-      "categories": ["电影", "连续剧", "动漫", "综艺"]
+      "categories": [
+        "电影",
+        "连续剧",
+        "动漫",
+        "综艺"
+      ]
     },
     {
       "key": "极速资源",
@@ -59,7 +64,12 @@
       "api": "https://jszyapi.com/api.php/provide/vod/?ac=detail",
       "searchable": 1,
       "changeable": 1,
-      "categories": ["电影", "连续剧", "动漫", "综艺"]
+      "categories": [
+        "电影",
+        "连续剧",
+        "动漫",
+        "综艺"
+      ]
     },
     {
       "key": "量子资源",
@@ -68,7 +78,12 @@
       "api": "https://cj.lziapi.com/api.php/provide/vod/?ac=detail",
       "searchable": 1,
       "changeable": 1,
-      "categories": ["电影", "连续剧", "动漫", "综艺"]
+      "categories": [
+        "电影",
+        "连续剧",
+        "动漫",
+        "综艺"
+      ]
     },
     {
       "key": "非凡资源",
@@ -77,7 +92,12 @@
       "api": "http://cj.ffzyapi.com/api.php/provide/vod/?ac=detail",
       "searchable": 1,
       "changeable": 1,
-      "categories": ["电影", "连续剧", "动漫", "综艺"]
+      "categories": [
+        "电影",
+        "连续剧",
+        "动漫",
+        "综艺"
+      ]
     },
     {
       "key": "金鹰直连",
@@ -88,7 +108,12 @@
       "quickSearch": 1,
       "filterable": 1,
       "changeable": 1,
-      "categories": ["电影", "连续剧", "动漫", "综艺"]
+      "categories": [
+        "电影",
+        "连续剧",
+        "动漫",
+        "综艺"
+      ]
     },
     {
       "key": "新浪直连",
@@ -99,7 +124,12 @@
       "quickSearch": 1,
       "filterable": 1,
       "changeable": 1,
-      "categories": ["电影", "连续剧", "动漫", "综艺"]
+      "categories": [
+        "电影",
+        "连续剧",
+        "动漫",
+        "综艺"
+      ]
     },
     {
       "key": "樱花直连",
@@ -110,7 +140,12 @@
       "quickSearch": 1,
       "filterable": 1,
       "changeable": 1,
-      "categories": ["电影", "连续剧", "动漫", "综艺"]
+      "categories": [
+        "电影",
+        "连续剧",
+        "动漫",
+        "综艺"
+      ]
     },
     {
       "key": "无尽直连",
@@ -121,7 +156,12 @@
       "quickSearch": 1,
       "filterable": 1,
       "changeable": 1,
-      "categories": ["电影", "连续剧", "动漫", "综艺"]
+      "categories": [
+        "电影",
+        "连续剧",
+        "动漫",
+        "综艺"
+      ]
     },
     {
       "key": "百度直连",
@@ -132,7 +172,12 @@
       "quickSearch": 1,
       "filterable": 1,
       "changeable": 1,
-      "categories": ["电影", "连续剧", "动漫", "综艺"]
+      "categories": [
+        "电影",
+        "连续剧",
+        "动漫",
+        "综艺"
+      ]
     },
     {
       "key": "闪电直连",
@@ -143,40 +188,57 @@
       "quickSearch": 1,
       "filterable": 1,
       "changeable": 1,
-      "categories": ["电影", "连续剧", "动漫", "综艺"]
+      "categories": [
+        "电影",
+        "连续剧",
+        "动漫",
+        "综艺"
+      ]
     },
     {
-      "key": "卧龙直连",
-      "name": "卧龙｜直连",
+      "key": "电影天堂",
+      "name": "电影天堂｜直连",
       "type": 1,
-      "api": "https://collect.wolongzyw.com/api.php/provide/vod/?ac=detail",
+      "api": "http://caiji.dyttzyapi.com/api.php/provide/vod",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
       "changeable": 1,
-      "categories": ["电影", "连续剧", "动漫", "综艺"]
+      "categories": [
+        "电影",
+        "连续剧",
+        "动漫",
+        "综艺"
+      ]
     },
     {
-      "key": "FOX直连",
-      "name": "FOX｜直连",
+      "key": "暴风",
+      "name": "暴风｜直连",
       "type": 1,
-      "api": "https://api.foxzyapi.com/api.php/provide/vod/?ac=detail",
+      "api": "https://bfzyapi.com/api.php/provide/vod/?ac=list",
       "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
       "changeable": 1,
-      "categories": ["电影", "连续剧", "动漫", "综艺"]
+      "categories": [
+        "电影",
+        "连续剧",
+        "动漫",
+        "综艺"
+      ]
     },
     {
-      "key": "步步高直连",
-      "name": "步步高｜直连",
+      "key": "红牛",
+      "name": "红牛｜直连",
       "type": 1,
-      "api": "https://api.yparse.com/api/json?ac=detail",
+      "api": "https://www.hongniuzy2.com/api.php/provide/vod/",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1,
       "changeable": 1,
-      "categories": ["电影", "连续剧", "动漫", "综艺"]
+      "categories": [
+        "电影",
+        "连续剧",
+        "动漫",
+        "综艺"
+      ]
     }
   ],
   "parses": [
