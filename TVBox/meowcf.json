@@ -51,7 +51,13 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "changeable": 1
+      "changeable": 1,
+      "categories": [
+        "电影",
+        "连续剧",
+        "动漫",
+        "综艺"
+      ]
     },
     {
       "key": "新浪直连",
@@ -61,7 +67,13 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "changeable": 1
+      "changeable": 1,
+      "categories": [
+        "电影",
+        "连续剧",
+        "动漫",
+        "综艺"
+      ]
     },
     {
       "key": "樱花直连",
@@ -71,7 +83,13 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "changeable": 1
+      "changeable": 1,
+      "categories": [
+        "电影",
+        "连续剧",
+        "动漫",
+        "综艺"
+      ]
     },
     {
       "key": "无尽直连",
@@ -81,7 +99,13 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "changeable": 1
+      "changeable": 1,
+      "categories": [
+        "电影",
+        "连续剧",
+        "动漫",
+        "综艺"
+      ]
     },
     {
       "key": "百度直连",
@@ -91,7 +115,13 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "changeable": 1
+      "changeable": 1,
+      "categories": [
+        "电影",
+        "连续剧",
+        "动漫",
+        "综艺"
+      ]
     },
     {
       "key": "闪电直连",
@@ -101,7 +131,13 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "changeable": 1
+      "changeable": 1,
+      "categories": [
+        "电影",
+        "连续剧",
+        "动漫",
+        "综艺"
+      ]
     },
     {
       "key": "卧龙直连",
@@ -111,7 +147,13 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "changeable": 1
+      "changeable": 1,
+      "categories": [
+        "电影",
+        "连续剧",
+        "动漫",
+        "综艺"
+      ]
     },
     {
       "key": "FOX直连",
@@ -121,7 +163,13 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "changeable": 1
+      "changeable": 1,
+      "categories": [
+        "电影",
+        "连续剧",
+        "动漫",
+        "综艺"
+      ]
     },
     {
       "key": "步步高直连",
@@ -131,7 +179,13 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "changeable": 1
+      "changeable": 1,
+      "categories": [
+        "电影",
+        "连续剧",
+        "动漫",
+        "综艺"
+      ]
     },
     {
       "key": "光速资源",
@@ -139,7 +193,13 @@
       "type": 1,
       "api": "http://api.guangsuapi.com/api.php/provide/vod/?ac=detail",
       "searchable": 1,
-      "changeable": 1
+      "changeable": 1,
+      "categories": [
+        "电影",
+        "连续剧",
+        "动漫",
+        "综艺"
+      ]
     },
     {
       "key": "极速资源",
@@ -147,7 +207,13 @@
       "type": 1,
       "api": "https://jszyapi.com/api.php/provide/vod/?ac=detail",
       "searchable": 1,
-      "changeable": 1
+      "changeable": 1,
+      "categories": [
+        "电影",
+        "连续剧",
+        "动漫",
+        "综艺"
+      ]
     },
     {
       "key": "量子资源",
@@ -155,7 +221,13 @@
       "type": 1,
       "api": "https://cj.lziapi.com/api.php/provide/vod/?ac=detail",
       "searchable": 1,
-      "changeable": 1
+      "changeable": 1,
+      "categories": [
+        "电影",
+        "连续剧",
+        "动漫",
+        "综艺"
+      ]
     },
     {
       "key": "非凡资源",
@@ -163,7 +235,13 @@
       "type": 1,
       "api": "http://cj.ffzyapi.com/api.php/provide/vod/?ac=detail",
       "searchable": 1,
-      "changeable": 1
+      "changeable": 1,
+      "categories": [
+        "电影",
+        "连续剧",
+        "动漫",
+        "综艺"
+      ]
     }
   ],
   "parses": [
