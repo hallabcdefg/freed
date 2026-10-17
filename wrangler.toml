@@ -1,0 +1,5 @@
+name = "freed-tb"
+compatibility_date = "2024-01-01"
+
+[site]
+bucket = "./TVBox"
