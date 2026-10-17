@@ -44,6 +44,38 @@
   ],
   "sites": [
     {
+      "key": "光速资源",
+      "name": "光速｜直连",
+      "type": 1,
+      "api": "http://api.guangsuapi.com/api.php/provide/vod/?ac=detail",
+      "searchable": 1,
+      "changeable": 1
+    },
+    {
+      "key": "极速资源",
+      "name": "极速｜直连",
+      "type": 1,
+      "api": "https://jszyapi.com/api.php/provide/vod/?ac=detail",
+      "searchable": 1,
+      "changeable": 1
+    },
+    {
+      "key": "量子资源",
+      "name": "量子｜直连",
+      "type": 1,
+      "api": "https://cj.lziapi.com/api.php/provide/vod/?ac=detail",
+      "searchable": 1,
+      "changeable": 1
+    },
+    {
+      "key": "非凡资源",
+      "name": "非凡｜直连",
+      "type": 1,
+      "api": "http://cj.ffzyapi.com/api.php/provide/vod/?ac=detail",
+      "searchable": 1,
+      "changeable": 1
+    },
+    {
       "key": "采集之王",
       "name": "采集｜合集",
       "type": 3,
@@ -122,38 +154,6 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
-    },
-    {
-      "key": "光速资源",
-      "name": "光速｜采集",
-      "type": 1,
-      "api": "http://api.guangsuapi.com/api.php/provide/vod/?ac=detail",
-      "searchable": 1,
-      "changeable": 1
-    },
-    {
-      "key": "极速资源",
-      "name": "极速｜采集",
-      "type": 1,
-      "api": "https://jszyapi.com/api.php/provide/vod/?ac=detail",
-      "searchable": 1,
-      "changeable": 1
-    },
-    {
-      "key": "量子资源",
-      "name": "量子｜采集",
-      "type": 1,
-      "api": "https://cj.lziapi.com/api.php/provide/vod/?ac=detail",
-      "searchable": 1,
-      "changeable": 1
-    },
-    {
-      "key": "非凡资源",
-      "name": "非凡｜采集",
-      "type": 1,
-      "api": "http://cj.ffzyapi.com/api.php/provide/vod/?ac=detail",
-      "searchable": 1,
-      "changeable": 1
     },
     {
       "key": "56动漫",
@@ -317,7 +317,7 @@
     },
     {
       "key": "hipy_js_爱你短剧",
-      "name": "爱你短剧(T3)",
+      "name": "爱你短剧(T3)｜采集",
       "type": 3,
       "api": "https://gitee.com/haaaooo/freed/raw/master/TVBox/JS/drpy2.min.js",
       "searchable": 1,
@@ -328,7 +328,7 @@
     },
     {
       "key": "hipy_js_策驰影院",
-      "name": "策驰影院(T3)",
+      "name": "策驰影院(T3)｜采集",
       "type": 3,
       "api": "https://gitee.com/haaaooo/freed/raw/master/TVBox/JS/drpy2.min.js",
       "searchable": 1,
@@ -339,7 +339,7 @@
     },
     {
       "key": "hipy_js_大师兄",
-      "name": "大师兄(T3)",
+      "name": "大师兄(T3)｜采集",
       "type": 3,
       "api": "https://gitee.com/haaaooo/freed/raw/master/TVBox/JS/drpy2.min.js",
       "searchable": 1,
@@ -350,7 +350,7 @@
     },
     {
       "key": "hipy_js_嘀哩嘀哩",
-      "name": "嘀哩嘀哩(T3)",
+      "name": "嘀哩嘀哩(T3)｜采集",
       "type": 3,
       "api": "https://gitee.com/haaaooo/freed/raw/master/TVBox/JS/drpy2.min.js",
       "searchable": 1,
@@ -361,7 +361,7 @@
     },
     {
       "key": "hipy_js_电影先生[自]",
-      "name": "电影先生[自](T3)",
+      "name": "电影先生[自](T3)｜采集",
       "type": 3,
       "api": "https://gitee.com/haaaooo/freed/raw/master/TVBox/JS/drpy2.min.js",
       "searchable": 1,
@@ -372,7 +372,7 @@
     },
     {
       "key": "hipy_js_毒舌电影[优]",
-      "name": "毒舌电影[优](T3)",
+      "name": "毒舌电影[优](T3)｜采集",
       "type": 3,
       "api": "https://gitee.com/haaaooo/freed/raw/master/TVBox/JS/drpy2.min.js",
       "searchable": 1,
@@ -383,7 +383,7 @@
     },
     {
       "key": "hipy_js_短剧天堂",
-      "name": "短剧天堂(T3)",
+      "name": "短剧天堂(T3)｜采集",
       "type": 3,
       "api": "https://gitee.com/haaaooo/freed/raw/master/TVBox/JS/drpy2.min.js",
       "searchable": 1,
@@ -394,7 +394,7 @@
     },
     {
       "key": "hipy_js_短剧网[短]",
-      "name": "短剧网[短](T3)",
+      "name": "短剧网[短](T3)｜采集",
       "type": 3,
       "api": "https://gitee.com/haaaooo/freed/raw/master/TVBox/JS/drpy2.min.js",
       "searchable": 1,
@@ -405,7 +405,7 @@
     },
     {
       "key": "hipy_js_饭团影视",
-      "name": "饭团影视(T3)",
+      "name": "饭团影视(T3)｜采集",
       "type": 3,
       "api": "https://gitee.com/haaaooo/freed/raw/master/TVBox/JS/drpy2.min.js",
       "searchable": 1,
@@ -416,7 +416,7 @@
     },
     {
       "key": "hipy_js_冠建影视",
-      "name": "冠建影视(T3)",
+      "name": "冠建影视(T3)｜采集",
       "type": 3,
       "api": "https://gitee.com/haaaooo/freed/raw/master/TVBox/JS/drpy2.min.js",
       "searchable": 1,
@@ -427,7 +427,7 @@
     },
     {
       "key": "hipy_js_黑狐影院",
-      "name": "黑狐影院(T3)",
+      "name": "黑狐影院(T3)｜采集",
       "type": 3,
       "api": "https://gitee.com/haaaooo/freed/raw/master/TVBox/JS/drpy2.min.js",
       "searchable": 1,
@@ -438,7 +438,7 @@
     },
     {
       "key": "hipy_js_饺子影院",
-      "name": "饺子影院(T3)",
+      "name": "饺子影院(T3)｜采集",
       "type": 3,
       "api": "https://gitee.com/haaaooo/freed/raw/master/TVBox/JS/drpy2.min.js",
       "searchable": 1,
@@ -449,7 +449,7 @@
     },
     {
       "key": "hipy_js_九牛电影",
-      "name": "九牛电影(T3)",
+      "name": "九牛电影(T3)｜采集",
       "type": 3,
       "api": "https://gitee.com/haaaooo/freed/raw/master/TVBox/JS/drpy2.min.js",
       "searchable": 1,
@@ -460,7 +460,7 @@
     },
     {
       "key": "hipy_js_剧集TV",
-      "name": "剧集TV(T3)",
+      "name": "剧集TV(T3)｜采集",
       "type": 3,
       "api": "https://gitee.com/haaaooo/freed/raw/master/TVBox/JS/drpy2.min.js",
       "searchable": 1,
@@ -471,7 +471,7 @@
     },
     {
       "key": "hipy_js_剧迷[自]",
-      "name": "剧迷[自](T3)",
+      "name": "剧迷[自](T3)｜采集",
       "type": 3,
       "api": "https://gitee.com/haaaooo/freed/raw/master/TVBox/JS/drpy2.min.js",
       "searchable": 1,
@@ -482,7 +482,7 @@
     },
     {
       "key": "hipy_js_剧耶耶",
-      "name": "剧耶耶(T3)",
+      "name": "剧耶耶(T3)｜采集",
       "type": 3,
       "api": "https://gitee.com/haaaooo/freed/raw/master/TVBox/JS/drpy2.min.js",
       "searchable": 1,
@@ -493,7 +493,7 @@
     },
     {
       "key": "hipy_js_来看点播[自]0",
-      "name": "来看点播[自]0(T3)",
+      "name": "来看点播[自]0(T3)｜采集",
       "type": 3,
       "api": "https://gitee.com/haaaooo/freed/raw/master/TVBox/JS/drpy2.min.js",
       "searchable": 1,
@@ -504,7 +504,7 @@
     },
     {
       "key": "hipy_js_来看点播[自]1",
-      "name": "来看点播[自]1(T3)",
+      "name": "来看点播[自]1(T3)｜采集",
       "type": 3,
       "api": "https://gitee.com/haaaooo/freed/raw/master/TVBox/JS/drpy2.min.js",
       "searchable": 1,
@@ -515,7 +515,7 @@
     },
     {
       "key": "hipy_js_猫视界",
-      "name": "猫视界(T3)",
+      "name": "猫视界(T3)｜采集",
       "type": 3,
       "api": "https://gitee.com/haaaooo/freed/raw/master/TVBox/JS/drpy2.min.js",
       "searchable": 1,
@@ -526,7 +526,7 @@
     },
     {
       "key": "hipy_js_萌番动漫",
-      "name": "萌番动漫(T3)",
+      "name": "萌番动漫(T3)｜采集",
       "type": 3,
       "api": "https://gitee.com/haaaooo/freed/raw/master/TVBox/JS/drpy2.min.js",
       "searchable": 1,
@@ -537,7 +537,7 @@
     },
     {
       "key": "hipy_js_奈飞中文[自]",
-      "name": "奈飞中文[自](T3)",
+      "name": "奈飞中文[自](T3)｜采集",
       "type": 3,
       "api": "https://gitee.com/haaaooo/freed/raw/master/TVBox/JS/drpy2.min.js",
       "searchable": 1,
@@ -548,7 +548,7 @@
     },
     {
       "key": "hipy_js_你好帅",
-      "name": "你好帅(T3)",
+      "name": "你好帅(T3)｜采集",
       "type": 3,
       "api": "https://gitee.com/haaaooo/freed/raw/master/TVBox/JS/drpy2.min.js",
       "searchable": 1,
@@ -559,7 +559,7 @@
     },
     {
       "key": "hipy_js_七新电影网",
-      "name": "七新电影网(T3)",
+      "name": "七新电影网(T3)｜采集",
       "type": 3,
       "api": "https://gitee.com/haaaooo/freed/raw/master/TVBox/JS/drpy2.min.js",
       "searchable": 1,
@@ -570,7 +570,7 @@
     },
     {
       "key": "hipy_js_奇趣影院",
-      "name": "奇趣影院(T3)",
+      "name": "奇趣影院(T3)｜采集",
       "type": 3,
       "api": "https://gitee.com/haaaooo/freed/raw/master/TVBox/JS/drpy2.min.js",
       "searchable": 1,
@@ -581,7 +581,7 @@
     },
     {
       "key": "hipy_js_三集电影[自动]",
-      "name": "三集电影[自动](T3)",
+      "name": "三集电影[自动](T3)｜采集",
       "type": 3,
       "api": "https://gitee.com/haaaooo/freed/raw/master/TVBox/JS/drpy2.min.js",
       "searchable": 1,
@@ -592,7 +592,7 @@
     },
     {
       "key": "hipy_js_天天影视[№]",
-      "name": "天天影视[№](T3)",
+      "name": "天天影视[№](T3)｜采集",
       "type": 3,
       "api": "https://gitee.com/haaaooo/freed/raw/master/TVBox/JS/drpy2.min.js",
       "searchable": 1,
@@ -603,7 +603,7 @@
     },
     {
       "key": "hipy_js_网飞la[自]",
-      "name": "网飞la[自](T3)",
+      "name": "网飞la[自](T3)｜采集",
       "type": 3,
       "api": "https://gitee.com/haaaooo/freed/raw/master/TVBox/JS/drpy2.min.js",
       "searchable": 1,
@@ -614,7 +614,7 @@
     },
     {
       "key": "hipy_js_网飞TV",
-      "name": "网飞TV(T3)",
+      "name": "网飞TV(T3)｜采集",
       "type": 3,
       "api": "https://gitee.com/haaaooo/freed/raw/master/TVBox/JS/drpy2.min.js",
       "searchable": 1,
@@ -625,7 +625,7 @@
     },
     {
       "key": "hipy_js_喜马拉雅",
-      "name": "喜马拉雅(T3)",
+      "name": "喜马拉雅(T3)｜采集",
       "type": 3,
       "api": "https://gitee.com/haaaooo/freed/raw/master/TVBox/JS/drpy2.min.js",
       "searchable": 1,
@@ -636,7 +636,7 @@
     },
     {
       "key": "hipy_js_星月",
-      "name": "星月(T3)",
+      "name": "星月(T3)｜采集",
       "type": 3,
       "api": "https://gitee.com/haaaooo/freed/raw/master/TVBox/JS/drpy2.min.js",
       "searchable": 1,
@@ -647,7 +647,7 @@
     },
     {
       "key": "hipy_js_一起看",
-      "name": "一起看(T3)",
+      "name": "一起看(T3)｜采集",
       "type": 3,
       "api": "https://gitee.com/haaaooo/freed/raw/master/TVBox/JS/drpy2.min.js",
       "searchable": 1,
@@ -658,7 +658,7 @@
     },
     {
       "key": "hipy_js_一曲肝肠断",
-      "name": "一曲肝肠断(T3)",
+      "name": "一曲肝肠断(T3)｜采集",
       "type": 3,
       "api": "https://gitee.com/haaaooo/freed/raw/master/TVBox/JS/drpy2.min.js",
       "searchable": 1,
@@ -669,7 +669,7 @@
     },
     {
       "key": "hipy_js_影剧星球",
-      "name": "影剧星球(T3)",
+      "name": "影剧星球(T3)｜采集",
       "type": 3,
       "api": "https://gitee.com/haaaooo/freed/raw/master/TVBox/JS/drpy2.min.js",
       "searchable": 1,
@@ -680,7 +680,7 @@
     },
     {
       "key": "hipy_js_影视大全1",
-      "name": "影视大全1(T3)",
+      "name": "影视大全1(T3)｜采集",
       "type": 3,
       "api": "https://gitee.com/haaaooo/freed/raw/master/TVBox/JS/drpy2.min.js",
       "searchable": 1,
@@ -691,7 +691,7 @@
     },
     {
       "key": "hipy_js_影视大全2",
-      "name": "影视大全2(T3)",
+      "name": "影视大全2(T3)｜采集",
       "type": 3,
       "api": "https://gitee.com/haaaooo/freed/raw/master/TVBox/JS/drpy2.min.js",
       "searchable": 1,
@@ -702,7 +702,7 @@
     },
     {
       "key": "hipy_js_影渣渣",
-      "name": "影渣渣(T3)",
+      "name": "影渣渣(T3)｜采集",
       "type": 3,
       "api": "https://gitee.com/haaaooo/freed/raw/master/TVBox/JS/drpy2.min.js",
       "searchable": 1,
@@ -713,7 +713,7 @@
     },
     {
       "key": "hipy_js_映播",
-      "name": "映播(T3)",
+      "name": "映播(T3)｜采集",
       "type": 3,
       "api": "https://gitee.com/haaaooo/freed/raw/master/TVBox/JS/drpy2.min.js",
       "searchable": 1,
@@ -724,7 +724,7 @@
     },
     {
       "key": "hipy_js_悠悠影视",
-      "name": "悠悠影视(T3)",
+      "name": "悠悠影视(T3)｜采集",
       "type": 3,
       "api": "https://gitee.com/haaaooo/freed/raw/master/TVBox/JS/drpy2.min.js",
       "searchable": 1,
@@ -735,7 +735,7 @@
     },
     {
       "key": "hipy_js_宇航影视[自]",
-      "name": "宇航影视[自](T3)",
+      "name": "宇航影视[自](T3)｜采集",
       "type": 3,
       "api": "https://gitee.com/haaaooo/freed/raw/master/TVBox/JS/drpy2.min.js",
       "searchable": 1,
@@ -746,7 +746,7 @@
     },
     {
       "key": "hipy_js_最新4K",
-      "name": "最新4K(T3)",
+      "name": "最新4K(T3)｜采集",
       "type": 3,
       "api": "https://gitee.com/haaaooo/freed/raw/master/TVBox/JS/drpy2.min.js",
       "searchable": 1,
@@ -757,7 +757,7 @@
     },
     {
       "key": "hipy_js_OuoFun",
-      "name": "OuoFun(T3)",
+      "name": "OuoFun(T3)｜采集",
       "type": 3,
       "api": "https://gitee.com/haaaooo/freed/raw/master/TVBox/JS/drpy2.min.js",
       "searchable": 1,
@@ -768,7 +768,7 @@
     },
     {
       "key": "hipy_js_PPXDM",
-      "name": "PPXDM(T3)",
+      "name": "PPXDM(T3)｜采集",
       "type": 3,
       "api": "https://gitee.com/haaaooo/freed/raw/master/TVBox/JS/drpy2.min.js",
       "searchable": 1,
